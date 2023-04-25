@@ -4,7 +4,7 @@ A structure, written struct, is an efficient way to group several variable under
 
 SYNTAX
 struct structureName {
-  dataType member1;
-  dataType member2;
+  dataType object1;
+  dataType object2;
   ...
 }
